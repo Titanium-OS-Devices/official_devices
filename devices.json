@@ -26,5 +26,19 @@
              "xda_thread": "#"
           }
        ]
+    },
+    {
+       "name": "Asus Zenfone Max Pro M1",
+       "brand": "Asus",
+       "codename": "X00T",
+       "android_versions": [
+          {
+             "version_code": "ten",
+             "version_name": "Ten",
+             "maintainer_name": "Abhiraj Singh",
+             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8453543",
+             "xda_thread": "#"
+          }
+       ]
     }
 ]
