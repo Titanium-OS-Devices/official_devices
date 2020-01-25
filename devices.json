@@ -27,6 +27,22 @@
           }
        ]
     },
+  
+     {
+       "name": "Redmi Note 5 Pro",
+       "brand": "Xiaomi",
+       "codename": "whyred",
+       "android_versions": [
+          {
+             "version_code": "ten",
+             "version_name": "Ten",
+             "maintainer_name": "Axel Putra Hidayat (skylarAurora)",
+             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6569827",
+             "xda_thread": "#"
+          }
+       ]
+    },
+
     {
        "name": "Asus Zenfone Max Pro M1",
        "brand": "Asus",
