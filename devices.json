@@ -42,6 +42,20 @@
        ]
     },
     {
+       "name": "Xiaomi Redmi Note 5 Pro",
+       "brand": "Xiaomi",
+       "codename": "whyred",
+       "android_versions": [
+          {
+             "version_code": "ten",
+             "version_name": "Ten",
+             "maintainer_name": "Axel Putra Hidayat (skylarkAurora)",
+             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8453543",
+             "xda_thread": "#"
+          }
+       ]
+    },
+    {
       "name": "K20 Pro / Mi 9T Pro",
       "brand": "Xiaomi",
       "codename": "raphael",
