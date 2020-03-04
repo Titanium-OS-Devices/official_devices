@@ -56,6 +56,21 @@
        ]
     },
     {
+
+       "name": "Xiaomi Redmi Note 7 Pro",
+       "brand": "Xiaomi",
+       "codename": "violet",
+       "android_versions": [
+          {
+             "version_code": "ten",
+             "version_name": "Ten",
+             "maintainer_name": "Yousef Algadri (Haseo97)",
+             "maintainer_url": "https://forum.xda-developers.com/member.php?u=5885640",
+             "xda_thread": "#"
+          }
+       ]
+    },
+    {
       "name": "K20 Pro / Mi 9T Pro",
       "brand": "Xiaomi",
       "codename": "raphael",
