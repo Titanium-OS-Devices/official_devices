@@ -83,5 +83,19 @@
             "xda_thread": "#"
          }
       ]
+   },
+     {
+      "name": "Essential PH-1",
+      "brand": "Essential",
+      "codename": "mata",
+      "android_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "OceanDepth95028 (Maxwell)",
+            "maintainer_url": "#",
+            "xda_thread": "#"
+         }
+      ]
    }
 ]
