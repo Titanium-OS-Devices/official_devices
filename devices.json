@@ -97,5 +97,19 @@
             "xda_thread": "#"
          }
       ]
-   }
+   },
+   {
+      "name": "Xiaomi Redmi Note 4",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "android_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "Ashay Kapadiya (ashaykapadiya)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7885171",
+            "xda_thread": "#"
+         }
+      ]
+   } 
 ]
