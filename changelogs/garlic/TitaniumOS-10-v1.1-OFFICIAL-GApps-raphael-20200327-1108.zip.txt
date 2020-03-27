@@ -1,0 +1,7 @@
+-------------------------------------
+27 MAR 2020
+-------------------------------------
+
+* PopupCameraService: Check audio mode before playing sound
+* FodKeyHandler: Wake up screen instead of pulsing
+* Implement Fod Screen Off Impl from Pixel Exprience
