@@ -111,5 +111,19 @@
             "xda_thread": "#"
          }
       ]
-   } 
+   },
+   {
+      "name": "MI 8 Lite",
+      "brand": "Xiaomi",
+      "codename": "platina",
+      "android_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "hisokadev (1cecreamm)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=10660933",
+            "xda_thread": "#"
+         }
+      ]
+   }
 ]
