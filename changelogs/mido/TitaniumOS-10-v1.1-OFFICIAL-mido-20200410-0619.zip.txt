@@ -1,0 +1,12 @@
+-------------------------------------
+10 APR 2020
+-------------------------------------
+
+* Bluetooth Calling Fixed
+* Updated GPS/Media/Thermal/Sensors/Perf/Widevine Blobs From LA.UM.8.6.r1-04000-89xx.0
+* All Latest Changes Merged From Zeelog Trees
+* Fixed Dark Video Recording Issue
+* Improved Network Strength
+* Optimized Shutdown Speed
+* Safetynet Fixed
+* Device is Certified in Playstore (Netflix is back)
