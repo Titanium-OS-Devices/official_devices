@@ -127,6 +127,20 @@
       ]
    },
    {
+      "name": "Xiaomi Mi 6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "android_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "Ronald Santos (RonaldSt)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9534825",
+            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-titaniumos-mi-6x-wayne-t4089803"
+         }
+      ]
+   },
+   {
       "name": "MI 8 Lite",
       "brand": "Xiaomi",
       "codename": "platina",

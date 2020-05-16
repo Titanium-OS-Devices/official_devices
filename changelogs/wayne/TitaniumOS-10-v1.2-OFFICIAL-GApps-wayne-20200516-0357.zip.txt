@@ -1,0 +1,12 @@
+-------------------------------------
+
+16 May 2020
+
+-------------------------------------
+
+
+* Kernel upstream 4.4.223
+* Kernel switched to HMP
+* Downgrade GPS HAL to LA.UM.8.2.r1-05100-sdm660.0 
+* Use cortex-a73 for arm64 
+* Update blobs from LA.UM. 8.2.r1-06500-sdm660.0
