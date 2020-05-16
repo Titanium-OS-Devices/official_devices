@@ -1,0 +1,18 @@
+-------------------------------------
+
+16 May 2020
+
+-------------------------------------
+
+
+* Upstream kernel 4.4.223
+* Import some caf based
+* Use cortex-a73
+* Switch to old auto selection networlUI
+* Clean up radio props
+* Clean up useless props
+* Add missing props
+* Set 60s as default screen timeout
+* Others improvement from caf
+* New perfect padding ( try and report )
+* Fixed mobile data delay
